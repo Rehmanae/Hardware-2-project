@@ -1,1 +1,1 @@
-print("Testi")
+moi testu
