@@ -1,1 +1,1 @@
-print("Toimiiko testi")
+print("Toimiiko")
